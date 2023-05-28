@@ -1,0 +1,21 @@
+{
+  "manifest_version":2,
+  "version":"1.0",
+  "name":"Scryfall Clipboard",
+  "content_scripts":[
+    {
+     "matches":["*://scryfall.com/*"],
+     "js":["main.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon-48.png",
+    "96": "icon-96.png"
+  },
+  "browser_action":{
+    "default_icon":{
+      "19":"icon-19.png",
+      "38":"icon-38.png"
+    }
+   }
+}
