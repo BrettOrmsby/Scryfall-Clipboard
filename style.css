@@ -28,6 +28,12 @@
   }
 }
 
+.cards-in-deck {
+  font-weight: 500;
+  color: #634496;
+  margin-left: 8px;
+}
+
 .clipboard-bar {
   background-color: #f6f4fa;
   padding: 8px 2.5%;
