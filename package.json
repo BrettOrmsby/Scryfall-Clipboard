@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "web-ext run --firefox=deved",
+    "build": "web-ext build --overwrite-dest"
+  },
   "devDependencies": {
     "eslint": "^8.41.0",
     "eslint-config-prettier": "^8.8.0",
