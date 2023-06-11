@@ -26,6 +26,9 @@
   .card-grid-item:hover .check-button {
     display: inline;
   }
+  .check-button[data-is-in-deck="true"] {
+    display: inline;
+  }
 }
 
 .cards-in-deck {
