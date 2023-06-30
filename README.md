@@ -28,7 +28,7 @@ Scryfall Clipboard is meant to be a very simple extension that makes it easier t
 
 * Clipboard management
   * Seeing a visual card list
-  * Removing items of said card list
+  * Removing items off said card list
 * Export the clipboard other than plain text copying
 * Copy specific card printings
 * Show the clipboard price
